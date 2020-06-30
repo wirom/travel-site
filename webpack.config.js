@@ -7,6 +7,7 @@ let postCSSPlugins = [
   require("postcss-nested"),
   require("postcss-simple-vars"),
   require("autoprefixer"),
+  require("postcss-hexrgba"),
 ];
 let cssConfig = {
   test: /\.css$/,
