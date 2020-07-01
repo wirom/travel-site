@@ -1,7 +1,7 @@
 .primary-nav {
   padding-top: 10px;
 
-  @mixiin atMedium {
+  @mixin atMedium {
     padding-top: 0;
   }
   &--pull-right {
