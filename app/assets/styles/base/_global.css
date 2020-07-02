@@ -1,14 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #333;
 }
+
 img {
   max-width: 100%;
   height: auto;
 }
 
 * {
-  /***** to have the padding from the edge inward for every element *****/
   box-sizing: border-box;
 }
 
